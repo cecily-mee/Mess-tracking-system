@@ -5,7 +5,7 @@ This is a MERN stack project
  you should have NodeJs installed, mongodb.
 
 - git clone
-- cd Mess_system
+- cd Mess-tracking-system
 - should do both in any manner
 
 - | cd messmate | cd backend |
