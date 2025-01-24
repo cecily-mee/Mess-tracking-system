@@ -1,15 +1,11 @@
 # Mess_Management
 
-This is Hackathon Project using MERN stack
-
-This Project has Won 3rd Price in Hackathon.
-
-To try it your self :
+This is a MERN stack project
 
  you should have NodeJs installed, mongodb.
 
-- git clone <https://github.com/Jenil45/Mess_Management.git>
-- cd Mess_Management
+- git clone
+- cd Mess_system
 - should do both in any manner
 
 - | cd messmate | cd backend |
@@ -17,5 +13,5 @@ To try it your self :
    | npm i      |    npm i   |
    | npm start | nodemon index.js |
 
-- create your own .env file by reffering .env.example file in backend folder
+
 
